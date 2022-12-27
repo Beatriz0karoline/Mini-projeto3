@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis",
+      "price": 179.9,
+      "image": "img/card1.svg"
+    },
+    {
+      "id": 2,
+      "title": "Blusa",
+      "price": 139.9,
+      "image": "img/card2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Camiseta",
+      "price": 219.9,
+      "image": "img/card3.svg"
+    },
+    {
+      "id": 5,
+      "title": "Blusa",
+      "price": 139.9,
+      "image": "img/card4.svg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis",
+      "price": 219.9,
+      "image": "img/card5.svg"
+    },
+    {
+      "id": 4,
+      "title": "Conjunto Social + Sapato",
+      "price": 179.9,
+      "image": "img/card6.svg"
+    }
+  ]
+}
